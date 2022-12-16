@@ -1,9 +1,9 @@
 # Machine-Learning-2022-Fall-Final
 #### Provided by Naiyu Zhang, Borui Feng, Minghui Song
 
-1. File: Report Facial Recognition.ipynb
+1. File: Report Facial Recognition.ipynb and Code Facial Recognition.pdf
 
-This file is the final report of our group, containg dataset description, pre-processing, methods used and conclusions.
+These files are the final report of our group (pdf version and ipynb version), containg dataset description, pre-processing, methods used and conclusions.
 
 2. File: Code Facial Recognition.ipynb 
 
